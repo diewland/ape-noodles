@@ -29,7 +29,7 @@ if __name__ == "__main__":
     for id in range(0, MAX_SUPPLY):
 
         # update data
-        metadata["name"] = "{} #XX".format(NAME, id)
+        metadata["name"] = "{} #XX".format(NAME)
         metadata["image"] = IMG
         metadata["attributes"][0]["value"] = ".XX"
 
