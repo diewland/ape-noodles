@@ -2,7 +2,7 @@ import json, os, glob, random
 from pprint import pprint as pp
  
 NAME = "Ape Noodles"
-DESC = "Every 8th of the month for 48 months, donate an amount of noodles to a charity or organization of your choosing. Determine the winning number using two decimal places of the 1 Day Fees from the website cryptofees.info"
+DESC = "Every 14th of the month for 48 months, donate an amount of noodles to a charity or organization of your choosing. Determine the winning number using two decimal places of the 1 Day Fees from the website cryptofees.info"
 IMG = "https://diewland.github.io/ape-noodles/assets/ndxx%20pok.png"
 ENGINE = "Jigsaw Engine"
 
